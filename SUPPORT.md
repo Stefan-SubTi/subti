@@ -2,9 +2,7 @@
 
 
 
-**BTC**
-
-bc1q5k4yl8rw3yyk3wt77henc0lft2zd6vsxezzvhy
+**BTC** \newline bc1q5k4yl8rw3yyk3wt77henc0lft2zd6vsxezzvhy
 
 
 
