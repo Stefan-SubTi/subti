@@ -1,5 +1,5 @@
 ## Enjoy SubTi? 😌 Your donation would be the best thanks 💚
-![bc1q5k4yl8rw3yyk3wt77henc0lft2zd6vsxezzvhy](https://github.com/Stefan-SubTi/subti/raw/main/wallet/bnb.png)
+![bc1q5k4yl8rw3yyk3wt77henc0lft2zd6vsxezzvhy](https://github.com/Stefan-SubTi/subti/raw/main/wallet/bnb.png | width=250)
 
 **BTC** `bc1q5k4yl8rw3yyk3wt77henc0lft2zd6vsxezzvhy`
 ##
